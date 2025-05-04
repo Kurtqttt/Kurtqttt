@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engr. Kurt Macasling</h1>
-<h3 align="center">💻 A passionate developer with a love for building tech that makes life easier.</h3>
+<h3 align="center">💻 A passionate developer and loves to learn with a love for building tech that makes life easier.</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurtqttt&theme=tokyonight" alt="kurtqttt trophies" /></a>
