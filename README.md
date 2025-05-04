@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kurt Macasling</h1>
+<h1 align="center">Hi 👋, I'm Engr. Kurt Macasling</h1>
 <h3 align="center">💻 A passionate developer with a love for building tech that makes life easier.</h3>
 
 <p align="center">
