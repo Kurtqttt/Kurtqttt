@@ -60,5 +60,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kurtqttt&show_icons=true&theme=tokyonight" alt="Kurt's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kurtqttt&theme=tokyonight" alt="Kurt's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=kurtqttt&theme=tokyonight" alt="Kurt's GitHub Streak"/>
 </p>
